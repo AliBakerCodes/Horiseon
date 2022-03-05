@@ -33,20 +33,17 @@ p {
   color: #d9dcd6;
 }
 
-.header nav {
+.header ul {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 18px;
   text-align: center;
-}
-
-.header ul {
   list-style-type: none;
 }
 
-.header nav ul li {
+.header ul li {
   display: inline-block;
   margin-left: 25px;
 }
