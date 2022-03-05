@@ -3,11 +3,19 @@
   padding: 0;
   margin: 0;
 }
-
+/* Global styles */
 body {
   background-color: #d9dcd6;
 }
-/* header classes for Site header and Nav Links */
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+/* Header classes for Site header and Nav Links */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -43,15 +51,7 @@ body {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-/* top image section (Don't delete :P ) */
+/* Header image section (Don't delete :P ) */
 .hero {
   height: 800px;
   width: 100%;
